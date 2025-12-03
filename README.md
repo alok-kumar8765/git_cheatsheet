@@ -7,6 +7,25 @@ Whether you're a beginner learning version control or an experienced developer n
 
 ---
 
+
+# 📑 Table of Contents
+
+* [🐙 The Ultimate Git Command Reference Sheet](#-the-ultimate-git-command-reference-sheet)
+* [📑 Table of Contents](#-table-of-contents)
+* [🛡️ Quality Badges](#️-quality-badges)
+* [📝 Detailed Git Command Reference](#-detailed-git-command-reference)
+
+  * [🔧 Configuration](#-configuration)
+  * [📁 Basic Operations](#-basic-operations)
+  * [🌿 Branching & Merging](#-branching--merging)
+  * [🛠️ Undoing Changes](#️-undoing-changes)
+* [🎓 Learning Resources](#-learning-resources)
+* [⭐ Boost Your Repository Quality](#-boost-your-repository-quality)
+* [💬 Contributions Welcome](#-contributions-welcome)
+* [⭐ Support the Project](#-support-the-project)
+
+---
+
 ## 🛡️ Quality Badges
 
 <p align="left">
@@ -81,30 +100,6 @@ Below is a complete reference covering configuration, basic operations, branchin
 ### 🎥 Recommended Video Tutorials  
 - Git & GitHub for Beginners – Crash Course  
 - Learn Git Branching (Interactive): https://learngitbranching.js.org/
-
----
-
-# ⭐ Boost Your Repository Quality
-
-To make your repository attractive and more collaborative:
-
-### 🔹 Clear Title & Description  
-Ensure your README clearly states the project's purpose.
-
-### 🔹 Add a LICENSE  
-MIT or Apache-2.0 is recommended for open sharing.
-
-### 🔹 Add a CONTRIBUTING.md  
-Guide contributors on PRs, commit messages, and code style.
-
-### 🔹 Issue Templates  
-Add templates for Bug Reports and Feature Requests.
-
-### 🔹 Clean Documentation  
-Use readable markdown tables, headings, and spacing.
-
-### 🔹 Add Badges  
-Show project activity, license, quality, and version status.
 
 ---
 
